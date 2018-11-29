@@ -1,0 +1,14 @@
+TitleText: Throughput Vs link failure
+XUNITTEXT: link failure (ms)
+YUNITTEXT: Throughput (bps)
+
+"tcp"
+1 1610114.76551
+2 1344913.703956
+3 1217114.549791
+
+"CBR"
+1 74289.178353
+2 74173.462190 
+3 74017.174850
+

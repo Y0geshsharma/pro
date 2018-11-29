@@ -1,0 +1,17 @@
+TitleText: Average Delay Vs Time
+XUNITTEXT: Time (ms)
+YUNITTEXT: Average Delay (ms)
+
+"CBR"
+2.25 0.020778
+5 0.022100
+10 0.022382
+15 0.022477
+20 0.022524
+
+"tcp"
+2.25 0.026237
+5 0.025683
+10 0.025608
+15 0.025586
+20 0.025576
